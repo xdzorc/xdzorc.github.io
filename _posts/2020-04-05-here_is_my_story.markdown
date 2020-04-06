@@ -6,7 +6,7 @@ permalink:  here_is_my_story
 ---
 
 
- Where do I start? I suppose everyone join Flatiron online software engineering program has a story behind it.
+ Where do I start? I suppose everyone joining Flatiron online software engineering program has a story behind it.
 
 Here is my version. I finished my Ph.D degree in chemical engineering  from University of Pittsbrugh back in 2012, and two years post-doc research following that. Unfortunely, the more I strived academically, the more lost I felt about my
  future and life in general. All of sudden, I was 31 years old. Time to change career to areas  I would enjoy? It really required considerable amount of courage and devotion. Right then and there, I had two choices, one was becoming a programmer, the other starting my own business. I chose the latter, started recyling post-industrial plastic and exporting to China. In the end, my ambition cost almost 5 years of my life. However, I tried something I always wanted, and surrended to the reality that I didn't have the skill set for a successful business. 
