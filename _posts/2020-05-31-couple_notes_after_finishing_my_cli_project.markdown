@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Couple notes after finishing my cli project"
-date:       2020-06-01 02:42:51 +0000
+date:       2020-05-31 22:42:52 -0400
 permalink:  couple_notes_after_finishing_my_cli_project
 ---
 
